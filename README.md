@@ -1,7 +1,7 @@
 # around-frontend
 A Cloud and React based Social Network
 
-Frontend
+Frontend (Developed via Virtual Machine Instance on Google Compute Engine)
 - Designed and implemented a social network web application with React JS. 
 - Implemented features for users to create and browse posts and support search by post keywords/user.
 - Improved the authentication using token based registration/login/logout flow with React Router v4 and server-side user authentication with JWT. 
